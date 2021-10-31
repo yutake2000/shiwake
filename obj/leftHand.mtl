@@ -1,0 +1,12 @@
+# Blender MTL File: 'FpsArmsLow.blend'
+# Material Count: 1
+
+newmtl ArmsTex.005
+Ns 449.999985
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.900000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
