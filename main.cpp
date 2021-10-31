@@ -40,7 +40,7 @@ string g_scoreDir = "score/";
 string g_musicDir = "music/";
 string g_musicFilename = g_musicDir + "bo-tto_hidamari.wav";
 string g_scoreFilename = g_scoreDir + "bo-tto_hidamari.txt";
-string g_video_device = "/dev/video1";
+string g_video_device = "/dev/video0";
 const char* textureFileNames[TEXTURE_COUNT] = {"img/floor.jpg", "img/wall.jpg", "img/kuukiyomi1.jpg", "img/kuukiyomi2.jpg"};
 
 bool g_isLeftButtonOn = false;
